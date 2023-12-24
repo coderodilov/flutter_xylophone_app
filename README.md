@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+![Screenshot_20231224_204538](https://github.com/coderodilov/flutter_xylophone_app/assets/91076403/b5dd5a6e-f760-4667-99f8-9c5c29839e6b)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
